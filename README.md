@@ -1,6 +1,8 @@
 Dithering Shader 🎨
 A customizable post-processing dithering shader for Unity that reduces the color palette to two user-defined colors, creating a stylized, retro, or limited-color aesthetic. Perfect for achieving cel-shaded, monochrome, or indie game visual styles.
 
+(Preview/PreviewImage.png)
+
 Features
 Two-Color Palette – Map the camera output to any two colors of your choice
 
