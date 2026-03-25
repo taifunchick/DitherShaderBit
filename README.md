@@ -1,6 +1,6 @@
 # Dithering Shader 🎨
 
-[![Unity Version](https://img.shields.io/badge/Unity-2020.3+-blue.svg)](https://unity.com)
+[![Unity Version](https://img.shields.io/badge/Unity-2022.3+-blue.svg)](https://unity.com)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A customizable post-processing dithering shader for Unity that reduces the color palette to two user-defined colors, creating a stylized, retro, or limited-color aesthetic. Perfect for achieving cel-shaded, monochrome, or indie game visual styles.
